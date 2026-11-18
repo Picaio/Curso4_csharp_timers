@@ -8,7 +8,6 @@
   <a href="https://youtu.be/QhzgmqUs3n8">
     <img src="https://img.shields.io/badge/YouTube-Ver%20Video-red?style=for-the-badge&logo=youtube" alt="Ver video en YouTube">
   </a>
-  <img src="https://img.shields.io/badge/C%23-Windows%20Forms-.NET-blue?style=for-the-badge&logo=visual-studio" alt=".NET Windows Forms">
 </p>
 
 ---
